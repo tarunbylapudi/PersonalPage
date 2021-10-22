@@ -105,10 +105,9 @@ hr{
 .footer-link{
 	margin: auto 10px;
 	text-decoration: none;
-	color: white;
 }
 a:hover {
-	color: #EAF6F6;
+	color: #fff;
 }
 #copyright{
 	color: #EAF6F6;	
